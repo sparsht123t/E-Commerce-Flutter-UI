@@ -8,6 +8,6 @@
 
 
 
-![Preview](/intro.gif=250x250)
+<!-- ![Preview](/intro.gif=250x250) -->
 
-<img src="/intro.gif" width="250" height="250"/>
+<img src="/intro.gif" width="350" height="650"/>
