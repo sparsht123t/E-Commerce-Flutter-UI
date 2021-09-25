@@ -10,4 +10,4 @@
 
 <!-- ![Preview](/intro.gif=250x250) -->
 
-<img src="/intro.gif" width="250" height="550"/>
+<img src="/intro.gif" width="250" height="500"/>
