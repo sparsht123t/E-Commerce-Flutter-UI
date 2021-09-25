@@ -25,3 +25,13 @@
 | <img src="https://user-images.githubusercontent.com/51333268/134764706-f9f33670-71e6-420e-8488-23c6fef01d6b.PNG"  width="250 " height="400"/> | <img src="https://user-images.githubusercontent.com/51333268/134764710-5c0ea040-459a-4882-aed9-0e82af4cd842.PNG"  width="250" height="400"/> | <img src="https://user-images.githubusercontent.com/51333268/134764713-cdbe63d7-d99b-49b7-bb3e-e5326caa780f.PNG"  width="250" height="400"/> | <img src="https://user-images.githubusercontent.com/51333268/134764714-920abd93-b130-4bd1-93be-3eb7dafe916f.PNG"  width="250" height="400"/> |
 
 
+
+
+
+
+### How To Run
+-----------------------
+#### Clone this repo
+#### Run flutter packages get
+#### Run flutter run (remember open simulator or connect physical device, iOS auto run additional command pod install)
+
