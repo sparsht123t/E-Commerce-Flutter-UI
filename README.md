@@ -25,7 +25,21 @@
 | <img src="https://user-images.githubusercontent.com/51333268/134764706-f9f33670-71e6-420e-8488-23c6fef01d6b.PNG"  width="250 " height="400"/> | <img src="https://user-images.githubusercontent.com/51333268/134764710-5c0ea040-459a-4882-aed9-0e82af4cd842.PNG"  width="250" height="400"/> | <img src="https://user-images.githubusercontent.com/51333268/134764713-cdbe63d7-d99b-49b7-bb3e-e5326caa780f.PNG"  width="250" height="400"/> | <img src="https://user-images.githubusercontent.com/51333268/134764714-920abd93-b130-4bd1-93be-3eb7dafe916f.PNG"  width="250" height="400"/> |
 
 
+# License
 
+    Copyright 2021 Sparsh Choudhary
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
 
 
 Installation
